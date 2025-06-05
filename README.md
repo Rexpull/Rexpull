@@ -1,12 +1,3 @@
-.github/workflows
-
-
-snake.yml
-
-
-README.md
-
-
 <h2 align="left">Hi 👋! My name is Marcus Vinicius Braga and I'm a FullStack Developer, from Brasil</h2>
 
 ###
